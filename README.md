@@ -19,8 +19,8 @@ A. Data is not ready for analysis
 B. All steps should be noted
 C. Hard to use for data analysis
 D. None of the mentioned
-
 ```
+
 <details>
 <summary markdown="span">Answer :</summary>
 B. All steps should be noted </br>because  </br>
@@ -39,6 +39,7 @@ B. Big Data
 C. Dark Data
 D. None of the mentioned
 ```
+
 <details>
 <summary markdown="span">Answer :</summary>
 B. Big Data </br>because  </br>Big data is a broad term for data sets so large or complex that traditional data processing applications are inadequate.
