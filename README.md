@@ -1,4 +1,4 @@
-<b align="center"><u>Quis GreyCampus Data Science Foundation Course</u></b>
+<p align="center"><b> Quis GreyCampus Data Science Foundation Course</b></p>
 
 ----
 
@@ -472,5 +472,5 @@ A. Least Square Error</br>because  </br>In linear regression, we minimize the le
 ----
 
 <P align="center">
-<a href ="www.greycampus.com/elearning/certificate/61810434144631"> </a></P> 
+<img src="https://github.com/yenysyafitry/Data-Science-Foundation-Course/blob/main/0001.jpg"></P> 
 
