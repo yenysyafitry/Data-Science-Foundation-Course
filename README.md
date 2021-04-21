@@ -1,4 +1,4 @@
-<b><u>Quis GreyCampus Data Science Foundation Course</u></b>
+<b align="justify"><u>Quis GreyCampus Data Science Foundation Course</u></b>
 
 ----
 
@@ -11,7 +11,7 @@ B. False
 <summary markdown="span">Answer :</summary>
 b. False</br> because Raw data may only need to be processed once
 </details>
-</br>
+
 
 ----
 
@@ -29,7 +29,7 @@ D. None of the mentioned
 B. All steps should be noted </br>because  </br>
 Processing includes merging, summarizing and subsetting data.
 </details>
-</br>
+
 
 ----
 
@@ -50,7 +50,6 @@ D. None of the mentioned
 <summary markdown="span">Answer :</summary>
 B. Big Data </br>because  </br>Big data is a broad term for data sets so large or complex that traditional data processing applications are inadequate.
 </details>
-</br>
 
 ----
 
@@ -66,7 +65,7 @@ D All of the mentioned
 <summary markdown="span">Answer :</summary>
 D All of the mentioned </br>because  </br> All of the mentioned skills are very essential to be a data scientist.
 </details>
-</br>
+
 
 ----
 
@@ -82,7 +81,7 @@ D None of the mentioned
 <summary markdown="span">Answer :</summary>
 B Find out the question which is to be answered</br>because  </br>Data analysis has multiple facets and approaches.
 </details>
-</br>
+
 
 ----
 
@@ -98,7 +97,7 @@ D All of the mentioned
 <summary markdown="span">Answer :</summary>
 B Data visualization is the organization of information according to preset specifications</br>because  </br>Data formatting is the organization of information according to preset specifications.
 </details>
-</br>
+
 
 ----
 
@@ -114,7 +113,7 @@ D None of the mentioned
 <summary markdown="span">Answer :</summary>
 C Python</br>because  </br>Python is the most commonly used programming language for data science, as it has several libraries specifically for data science.
 </details>
-</br>
+
 
 ----
 
@@ -130,7 +129,7 @@ D All of the mentioned
 <summary markdown="span">Answer :</summary>
 D All of the mentioned</br>because  </br>A data scientist is a job title for an employee or business intelligence (BI) consultant who excels at analyzing data, particularly large amounts of data.
 </details>
-</br>
+
 
 ----
 
@@ -147,7 +146,6 @@ D None of the mentioned
 <summary markdown="span">Answer :</summary>
 A Raw data is original source of data</br>because  </br>Accounting programs are prototypical examples of data processing applications.
 </details>
-</br>
 
 ----
 
@@ -169,7 +167,6 @@ D None of the mentioned
 <summary markdown="span">Answer :</summary>
 B Data Science</br>because  </br>Data Science is a multidisciplinary which involves extraction of knowledge from large volumes of data that are structured or unstructured.
 </details>
-</br>
 
 ----
 
@@ -185,7 +182,6 @@ B Data Science</br>because  </br>Data Science is a multidisciplinary which invol
 <summary markdown="span">Answer :</summary>
  C Bayesian Classifier</br>because  </br>Bayesian classification is related to Naive Bayes Algorithm.
 </details>
-</br>
 
 ----
 
@@ -201,7 +197,6 @@ B Data Science</br>because  </br>Data Science is a multidisciplinary which invol
 <summary markdown="span">Answer :</summary>
  D All of the above</br>because  </br>These are all the steps in pruning.
 </details>
-</br>
 
 ----
 
@@ -217,7 +212,6 @@ B Data Science</br>because  </br>Data Science is a multidisciplinary which invol
 <summary markdown="span">Answer :</summary>
 A By pruning the longer rules.</br>because  </br>Pruning is one of the methods to tame a decision tree.
 </details>
-</br>
 
 ----
 
@@ -233,7 +227,6 @@ A By pruning the longer rules.</br>because  </br>Pruning is one of the methods t
 <summary markdown="span">Answer :</summary>
 C Both the options given above.</br>because  </br>Tree-based classifiers perform a series of condition checking with one attribute at a time.
 </details>
-</br>
 
 ---- 
 
@@ -248,7 +241,6 @@ C Both the options given above.</br>because  </br>Tree-based classifiers perform
 <summary markdown="span">Answer :</summary>
  B Measure performance over validation data.</br>because  </br>We always consider the validation results to compare with the test result.
 </details>
-</br>
 
 ----
 
@@ -267,7 +259,6 @@ C Both the options given above.</br>because  </br>Tree-based classifiers perform
 <summary markdown="span">Answer :</summary>
  D 1,2 and 3</br>because  </br>All of the options are correct and self explanatory.
 </details>
-</br>
 
 ----
 
@@ -283,7 +274,6 @@ C Both the options given above.</br>because  </br>Tree-based classifiers perform
 <summary markdown="span">Answer :</summary>
  D Decision Trees</br>because  </br>Decision trees don’t aggregate the results of multiple trees, so it is not an ensemble algorithm.
 </details>
-</br>
 
 ----
 
@@ -299,7 +289,6 @@ C Both the options given above.</br>because  </br>Tree-based classifiers perform
 <summary markdown="span">Answer :</summary>
  A Correlation coefficient = 0.9.</br>because  </br>The correlation between variables is 0.9. It signifies that the relationship between variables is fairly strong.
 </details>
-</br>
 
 ----
 
@@ -315,7 +304,6 @@ C Both the options given above.</br>because  </br>Tree-based classifiers perform
 <summary markdown="span">Answer :</summary>
  C None of these</br>because  </br>Test error may be zero if there is no noise in test data. In other words, it will be zero if the test data is a perfect representative of train data, but not always.
 </details>
-</br>
 
 ----
 
@@ -331,7 +319,6 @@ C Both the options given above.</br>because  </br>Tree-based classifiers perform
 <summary markdown="span">Answer :</summary>
 A The polynomial degree</br>because  </br>Choosing the right degree of polynomial plays a critical role in a fit of regression. If we choose a higher degree of polynomial, chances of overfit increase significantly.
 </details>
-</br>
 
 ----
 
@@ -347,7 +334,6 @@ A The polynomial degree</br>because  </br>Choosing the right degree of polynomia
 <summary markdown="span">Answer :</summary>
  B Lasso</br>because  </br>The Lasso does not admit a closed-form solution. The L1-penalty makes the solution non-linear. So we need to approximate the solution.
 </details>
-</br>
 
 ----
 
@@ -364,7 +350,6 @@ A The polynomial degree</br>because  </br>Choosing the right degree of polynomia
 <summary markdown="span">Answer :</summary>
 D The relationship is symmetric between x and y in case of correlation but in case of regression it is not symmetric.</br>because  </br>Correlation is a statistic metric that measures the linear association between two variables. It treats y and x symmetrically. Regression is a set up to predict y from x. The relationship is not symmetric.
 </details>
-</br>
 
 ----
 
@@ -379,7 +364,6 @@ D The relationship is symmetric between x and y in case of correlation but in ca
 <summary markdown="span">Answer :</summary>
 B Lasso regression uses subset selection of features.</br>because  </br>“Ridge regression” will use all predictors in the final model whereas “Lasso regression” can be used for feature selection because coefficient values can be zero.
 </details>
-</br>
 
 ----
 
@@ -395,7 +379,6 @@ B Lasso regression uses subset selection of features.</br>because  </br>“Ridge
 <summary markdown="span">Answer :</summary>
 A Scatter Plot</br>because  </br>To test the linear relationship between continuous variables, Scatter plot is a good option. We can find out how one variable is changing with respect to another variable. A scatter plot displays the relationship between two quantitative variable
 </details>
-</br>
 
 ----
 
@@ -411,7 +394,6 @@ A Scatter Plot</br>because  </br>To test the linear relationship between continu
 <summary markdown="span">Answer :</summary>
  A Linear Regression with varying error terms.</br>because  </br>The presence of non-constant variance in the error terms results in heteroskedasticity. Generally, non-constant variance arises because of the presence of outliers or extreme leverage values. 
 </details>
-</br>
 
 ----
 
@@ -427,7 +409,6 @@ A Scatter Plot</br>because  </br>To test the linear relationship between continu
 <summary markdown="span">Answer :</summary>
 A Mean of residuals is also zero.</br>because  </br>If the sum of residuals is zero, the ‘Mean’ will also be zero, which is always zero in regression.
 </details>
-</br>
 
 ----
 
@@ -442,7 +423,6 @@ A Mean of residuals is also zero.</br>because  </br>If the sum of residuals is z
 <summary markdown="span">Answer :</summary>
 A Whether we learn the weights by matrix inversion or gradient descent.</br>because  </br>When a higher degree of a polynomial is chosen, chances of over-fit increase significantly
 </details>
-</br>
 
 ----
 
@@ -458,7 +438,6 @@ A Whether we learn the weights by matrix inversion or gradient descent.</br>beca
 <summary markdown="span">Answer :</summary>
 A. Least Square Error</br>because  </br>In linear regression, we minimize the least square errors of the model to identify the line of best fit.
 </details>
-</br>
 
 ----
 
@@ -474,7 +453,6 @@ A. Least Square Error</br>because  </br>In linear regression, we minimize the le
 <summary markdown="span">Answer :</summary>
  A. PCA</br>because  </br>Principal Component Analysis (PCA) is not a predictive analysis tool. It is a data pre-processing tool. It helps in picking out the most relevant linear combination of variables and use them in our predictive model.
 </details>
-</br>
 
 ----
 
@@ -490,7 +468,6 @@ A. Least Square Error</br>because  </br>In linear regression, we minimize the le
 <summary markdown="span">Answer :</summary>
  D. nonlinear, binary</br>because  </br>Logistic regression uses nonlinear data and has the outcome in binary format.
 </details>
-</br>
 
 ----
 
