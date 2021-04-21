@@ -458,7 +458,7 @@ A. Least Square Error</br>because  </br>In linear regression, we minimize the le
 
 
 ```plantuml
-30. Fill in the blanks with the correct option s:Logistic regression is a .... regression technique that is used to model data having a .... outcome
+30. Fill in the blanks with the correct option s:Logistic regression is a (.... )regression technique that is used to model data having a (....) outcome
  A. linear, numeric
  B. linear, binary
  C. nonlinear, numeric
