@@ -31,9 +31,11 @@ Processing includes merging, summarizing and subsetting data.
 ----
 
 ```plantuml
-
-Which of the following term is appropriate to the below figure?
-<img src="https://github.com/yenysyafitry/Data-Science-Foundation-Course/blob/main/Q2.png">
+Which of the following term is appropriate to the below figure? 
+```
+<P>
+<img src="https://github.com/yenysyafitry/Data-Science-Foundation-Course/blob/main/Q2.png"> </P>
+```plantuml
 A. Large Data
 B. Big Data
 C. Dark Data
