@@ -472,5 +472,5 @@ A. Least Square Error</br>because  </br>In linear regression, we minimize the le
 ----
 
 <P align="center">
-<a href= src="https://www.linkedin.com/sharing/share-offsite/?url=https://www.greycampus.com/elearning/certificate/61810434144631"> </a></P> 
+<a href ="https://www.linkedin.com/sharing/share-offsite/?url=https://www.greycampus.com/elearning/certificate/61810434144631"> </a></P> 
 
